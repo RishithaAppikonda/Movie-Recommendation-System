@@ -1,2 +1,2 @@
-MOVIE RECOMMENDATION SYSTEM: This Project will recommend the movies based on the user's interests, similarity between movies and movie ratings. In this Project Scikit-learn machine learning library is used and also an interactive search box is displayed for user's input using ipywidgets in jupyter notebook
+MOVIE RECOMMENDATION SYSTEM: This Project will recommend the movies based on the user's interests, similarity between movies and movie ratings. In this Project Scikit-learn machine learning library is used and also an interactive search box is displayed for user's input using ipywidgets in jupyter notebook.
 Movies and Rating Datasets are taken from https://files.grouplens.org/datasets/movielens/ml-25m.zip
